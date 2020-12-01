@@ -1,0 +1,21 @@
+
+a
+{
+    text-decoration: none;}
+
+.li1{
+    width:750px;
+   padding-left: 50px;
+     background-color: rgba(0,0,0,0.3);
+     border-radius: 20px;
+    height: 190px; color:blue;
+}
+
+.li2{
+    color:yellow;
+    position: absolute;
+    top:132px;
+    left:350px;
+    margin-top: -32px;
+    margin-left: 80px;
+}

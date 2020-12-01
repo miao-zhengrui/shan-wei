@@ -1,0 +1,27 @@
+
+body{
+  
+    background-image: url(../e.jpg);
+    background-repeat:no-repeat;}
+
+.att{
+     width:1000px;
+     margin:0 auto;
+     overflow: hidden;
+}
+.att1{
+    width:500px;
+    height:400px;
+   padding-top: 30px;
+    background: rgba(204,255,250,0.5);
+    
+    float: left;
+}
+.att2{
+     width:500px;
+     height:400px;
+     padding-top: 30px;
+     font-size:15px;
+     background: rgba(255,204,204,0.5);
+     float: left;
+}
